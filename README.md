@@ -1,2 +1,3 @@
 # todoApp
-Flutter login example
+Flutter login örneği
+Kullanıcının token bilgisini tutma
